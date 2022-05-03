@@ -1,7 +1,8 @@
 ## Final Project
 
-What's up? hey\|you
+### Owen and Some Dudez
 
+#### by Owen Fitzgerald, Sebastian Stoneham, and Matthew Romano
 I am an awesome student at Lehigh, you should hire me!
 
 <!-- Upload your own photo and change the path -->
