@@ -19,8 +19,7 @@ I am an awesome student at Lehigh, you should hire me!
 
 _**[Getting Started](GettingStarted.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
+This page includes our research question, hypothesis, and a breif overview of our steps to reach our results
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
